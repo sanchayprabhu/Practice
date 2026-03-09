@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 void feature1(){
+  printf("This is feature 1 function");
 
 }
 
